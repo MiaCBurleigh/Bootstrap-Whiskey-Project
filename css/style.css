@@ -1,0 +1,71 @@
+body{
+font-family: 'Lora', serif;
+}
+
+/*containers*/
+.alert-container{
+    
+}
+
+.callout-container{
+    height: 100vh;
+
+  background: url("../images/whiskey-background.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.quotes-container{
+    
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    text-align: center;
+}
+
+.features-container{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    text-align: center
+    
+}
+
+.jumbotron h1 {
+    color: antiquewhite;
+}
+
+.jumbotron{
+    background-color: transparent;
+}
+
+.jumbotron-h1{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+
+}
+
+.jumbotron .lead {
+    color: #a7a7a7;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.small, small {
+    font-size: 85%;
+    color: #ccc;
+}
